@@ -1,21 +1,21 @@
-# 🐍 Snakeskin Landing Page
+# Snakeskin Landing Page
 
 A modern, beautiful landing page built with [Snakeskin](https://github.com/xplnhub/snakeskin) - a venomously fast Python web framework. Features a responsive design with Tailwind CSS, smooth animations, and Lucide icons.
 
 ![Snakeskin Landing Page](https://via.placeholder.com/1200x600/4F46E5/FFFFFF?text=Snakeskin+Landing+Page)
 
-## ✨ Features
+## Features
 
-- **🎨 Modern Design**: Beautiful gradient backgrounds, glass morphism effects, and smooth animations
-- **📱 Fully Responsive**: Looks great on all devices - mobile, tablet, and desktop
-- **⚡ Lightning Fast**: Static HTML generation for optimal performance
-- **🎯 Component-Based**: Built with reusable Python components
-- **🔥 Hot Reload**: Development server with live updates
-- **🎭 Lucide Icons**: Professional SVG icons throughout
-- **🌈 Tailwind CSS**: Utility-first CSS framework via CDN
-- **♿ Accessible**: Semantic HTML and proper ARIA labels
+- **Modern Design**: Beautiful gradient backgrounds, glass morphism effects, and smooth animations
+- **Fully Responsive**: Looks great on all devices - mobile, tablet, and desktop
+- **Lightning Fast**: Static HTML generation for optimal performance
+- **Component-Based**: Built with reusable Python components
+- **Hot Reload**: Development server with live updates
+- **Lucide Icons**: Professional SVG icons throughout
+- **Tailwind CSS**: Utility-first CSS framework via CDN
+- **Accessible**: Semantic HTML and proper ARIA labels
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -49,7 +49,7 @@ pip install snakeskin-xplnhub
 pip install websockets
 ```
 
-## 🛠️ Development
+## Development
 
 ### Build the Project
 
@@ -77,7 +77,7 @@ Visit [http://localhost:3000/dist](http://localhost:3000/dist) to view your site
 snakeskin build
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 my-landing-page/
@@ -97,7 +97,7 @@ my-landing-page/
 └── README.md                # This file
 ```
 
-## 🎨 Components
+## Components
 
 ### Navbar
 - Glass morphism effect with backdrop blur
@@ -131,7 +131,7 @@ my-landing-page/
 - Social media icons (Twitter, LinkedIn, Mail)
 - Gradient text effects
 
-## 🎭 Customization
+## Customization
 
 ### Change Colors
 
@@ -180,7 +180,7 @@ Icons use [Lucide](https://lucide.dev/). Browse available icons and replace:
 <i data-lucide="icon-name" style="width: 24px; height: 24px;"></i>
 ```
 
-## 🌐 Deployment
+## Deployment
 
 See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment instructions.
 
@@ -190,14 +190,14 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment instructions.
 - **GitHub Pages**: Push to GitHub and enable Pages in settings
 - **Surge**: `npm i -g surge && cd dist && surge`
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - **[Snakeskin](https://github.com/xplnhub/snakeskin)**: Python web framework
 - **[Tailwind CSS](https://tailwindcss.com/)**: Utility-first CSS framework
 - **[Lucide Icons](https://lucide.dev/)**: Beautiful & consistent icon set
 - **[Inter Font](https://fonts.google.com/specimen/Inter)**: Modern sans-serif typeface
 
-## 📝 Scripts
+## Scripts
 
 | Command | Description |
 |---------|-------------|
@@ -206,14 +206,14 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed deployment instructions.
 | `snakeskin build` | Production build |
 | `snakeskin --help` | View all available commands |
 
-## 🎯 Performance
+## Performance
 
 - **Static HTML**: No server-side rendering needed
 - **CDN Resources**: Tailwind and Lucide loaded from CDN
 - **Optimized CSS**: Only used Tailwind classes are included
 - **Fast Load Time**: Minimal dependencies, maximum performance
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Build fails with "No module named 'snakeskin'"
 
@@ -251,11 +251,11 @@ python3 main.py
 
 Then access the correct URL: `http://localhost:3000/dist/`
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -265,11 +265,11 @@ Contributions, issues, and feature requests are welcome!
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 👨‍💻 Author
+## Author
 
-Built with 🐍 and ❤️ using Snakeskin via XplnHUB
+Built with Python using Snakeskin via XplnHUB
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Snakeskin Framework](https://github.com/xplnhub/snakeskin) by XplnHUB
 - [Tailwind CSS](https://tailwindcss.com/) for the styling system
@@ -278,6 +278,6 @@ Built with 🐍 and ❤️ using Snakeskin via XplnHUB
 
 ---
 
-**⭐ If you found this helpful, please consider giving it a star!**
+**If you found this helpful, please consider giving it a star!**
 
 For more information about Snakeskin, visit the [official documentation](https://github.com/xplnhub/snakeskin).
