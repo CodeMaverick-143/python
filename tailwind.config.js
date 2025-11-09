@@ -1,0 +1,1 @@
+module.exports = { content: ["./src/components/**/*.py", "./main.py"], theme: { extend: {}, }, plugins: [], };
