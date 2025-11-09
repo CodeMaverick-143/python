@@ -1,0 +1,2 @@
+snakeskin-xplnhub==1.0.2
+websockets>=15.0.0

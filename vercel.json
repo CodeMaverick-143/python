@@ -1,0 +1,5 @@
+{
+  "buildCommand": "pip3 install --user snakeskin-xplnhub websockets && python3 main.py",
+  "outputDirectory": "dist",
+  "framework": null
+}
